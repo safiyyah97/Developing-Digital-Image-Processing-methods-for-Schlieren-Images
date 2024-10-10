@@ -30,4 +30,4 @@ The workflow is divided into the streamer/finger analysis, ice interface analysi
 5. Track the matched regions.
 
 ## Data sources 
-- The data associated with these scrips can be found at
+- The data associated with these scripts can be found at: https://doi.org/10.5281/zenodo.13889406
