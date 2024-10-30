@@ -19,7 +19,8 @@ The workflow is divided into the streamer/finger analysis, ice interface analysi
 3. Tracking the ice-water interface and determining ice thickness.* 
 4. Applying connected component labelling to track expulsions and determine characteristics.* 
 5. Adding the scale bar and timestamp.
-6. Converting the images to a video file. 
+6. Converting the images to a video file.
+   
 *Please note that these scripts are written for a single image file. If you want to run successive images (i.e. the whole video) the code can be adapted to loop through all of the images.  
 
 ### Streamer tracking 
